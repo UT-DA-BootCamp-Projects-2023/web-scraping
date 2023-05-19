@@ -2,7 +2,7 @@
 
 *************----------Content----------*************<br>
 * --**part_1_mars_news.ipynb**-- - solved scrape titles and preview text from mars news Jupyter Notebook
-* --**part_2_mars_weather.ipynb**-- - solved scrape and analyze mars weather data Jupyter 
+* --**part_2_mars_weather.ipynb**-- - solved scrape and analyze mars weather data Jupyter Notebook 
 * title_preview_json_response - json response file from Part 1 analysis
 * mars_temperature_df.cvs - csv output file from part 2 analysis
 * Jupyter_KernelSelection_Checklist.pdf - prerequisite checklist for jupyter file
